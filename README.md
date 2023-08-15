@@ -16,4 +16,6 @@ A repository of AutoHotkey (AHK) scripts. These scripts use AHK V1.
 
 -   _(CTRL + ALT + i)_ - Add initials and date
 
+**GetHtmlColor** - (CTRL + ALT + h) - Outputs a random html color string
+
 **GetSelectedText** - Get the user selected text
