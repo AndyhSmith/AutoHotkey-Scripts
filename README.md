@@ -1,3 +1,7 @@
+Copyright (c) 2023 Andy Smith
+
+Use but don't redistribute
+
 # AutoHotkey-Scripts
 
 A repository of AutoHotkey (AHK) scripts. These scripts use AHK V1.
