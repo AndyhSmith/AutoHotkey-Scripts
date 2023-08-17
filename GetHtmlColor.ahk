@@ -19,3 +19,4 @@ SetWorkingDir, %A_ScriptDir%
 
     Random, RandomIndex, 1, ArrCount
     Send % Arr[RandomIndex]
+return

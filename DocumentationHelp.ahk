@@ -14,3 +14,4 @@ SetWorkingDir, %A_ScriptDir%
     Send, {SPACE}
     Send, - 
     Send, {SPACE}
+return
